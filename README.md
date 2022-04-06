@@ -1,7 +1,7 @@
 # pyextras
 
 ----------------- MsgBomb -----------------
-* python -m pip install pyautogui
+* cmd : python -m pip install pyautogui
 * WhatsApp Web abierto
 
 ----------------- DOScenso -----------------
