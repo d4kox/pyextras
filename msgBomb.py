@@ -8,3 +8,4 @@ tm.sleep(5)
 for a in range(0,msg_counter):
     pg.write(msg_text)
     pg.press('enter')
+print("[+] Mensajes enviados correctamente...")
